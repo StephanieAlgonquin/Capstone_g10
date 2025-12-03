@@ -1,4 +1,4 @@
-# Tasky - Task Manager Application
+# TaskFlow - Task Manager Application
 
 A modern task management application built with Laravel and Livewire, featuring a Kanban board interface for organizing tasks across multiple lists. This application fulfills all requirements for a comprehensive task management system.
 
@@ -109,3 +109,9 @@ This project utilized AI assistance for development and debugging:
 **AI Tools Used**: 
 - ChatGPT
 - GitHub Copilot
+
+
+## License
+
+This project is open-sourced software.
+
